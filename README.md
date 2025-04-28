@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="250" src="https://static.wikia.nocookie.net/pizzaria-freddy-fazbear/images/8/84/IdleFredbear.gif/revision/latest/thumbnail/width/360/height/360?cb=20160224185157&path-prefix=pt-br" />
+  <img height="180" src="https://static.wikia.nocookie.net/pizzaria-freddy-fazbear/images/8/84/IdleFredbear.gif/revision/latest/thumbnail/width/360/height/360?cb=20160224185157&path-prefix=pt-br" />
 </div>
 <h1 align="left">Hey 👋 What's up?</h1>
 
