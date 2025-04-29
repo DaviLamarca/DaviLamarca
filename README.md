@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is Davi and I'm a Developer from Crossystem</p>
+<p align="left">My name is Davi</p>
 
 ###
 
