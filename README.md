@@ -1,7 +1,11 @@
-<div align="center">
+<p align="center">
   <img height="180" src="https://media.tenor.com/u-lKkJ3heBkAAAAj/fnaf-fnaf-world.gif" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180" src="https://static.wikia.nocookie.net/pizzaria-freddy-fazbear/images/8/84/IdleFredbear.gif/revision/latest/thumbnail/width/360/height/360?cb=20160224185157&path-prefix=pt-br" />
-</div>
+</p>
+
+
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
